@@ -17,6 +17,14 @@ body {
   margin: 0;
 }
 
+.together {
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  width: 650px;
+  height: 365px;
+}
+
 h2 {
   display: inline-block;
   font-family: "Roboto Condensed", sans-serif;
