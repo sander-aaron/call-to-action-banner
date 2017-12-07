@@ -18,8 +18,28 @@ div {
 
 h2 {
   font-family: "Roboto Condensed", sans-serif;
+  font-size: 3rem;
+  position: absolute;
+  bottom: 0;
 }
 
 p {
   font-family: "Roboto", sans-serif;
+  position: absolute;
+  bottom: 0;
+}
+
+.btn {
+  position: absolute;
+  bottom: 0;
+}
+
+.btn {
+  float: left;
+  position: absolute;
+  bottom: 0;
+}
+
+a {
+
 }
