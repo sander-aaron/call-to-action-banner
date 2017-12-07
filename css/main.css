@@ -23,9 +23,10 @@ h2 {
   font-size: 3rem;
   position: absolute;
   top: 8%;
-  left: 43%;
+  left: 40%;
   max-width: 45em;
   margin-top: 0;
+  padding-right: 1em;
 }
 
 p {
@@ -34,8 +35,9 @@ p {
   font-size: 1.5rem;
   position: absolute;
   top: 35%;
-  left: 43%;
+  left: 40%;
   max-width: 45em;
+  padding-right: 1em;
 }
 
 .btn {
@@ -49,7 +51,7 @@ p {
   padding: .5em;
   text-align: center;
   bottom: 15%;
-  left: 43%;
+  left: 40%;
 }
 
 .btn:hover {
@@ -61,7 +63,8 @@ p {
   position: absolute;
   top: 5%;
   left: 5%;
-  max-width: 14em;
+  width: 100%;
+  max-width: 12em;
 }
 
 .banner {
