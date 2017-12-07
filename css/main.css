@@ -11,7 +11,7 @@ body {
   margin: 0;
 }
 
-div {
+.rel {
   overflow: hidden;
   position: relative;
 }
@@ -33,6 +33,10 @@ p {
 }
 
 .btn-big {
+  border-radius: 6px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
   position: absolute;
   bottom: 0;
 }
@@ -50,4 +54,8 @@ p {
   display: block;
   width: 100%;
   max-height: 500px;
+}
+
+.float {
+  float: right;
 }
