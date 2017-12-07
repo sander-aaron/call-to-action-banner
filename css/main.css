@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+div {
+  overflow: hidden;
+  position: relative;
+}
+
+h2 {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
