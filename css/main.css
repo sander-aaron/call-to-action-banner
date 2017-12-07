@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: sans-serif;
+  line-height: auto;
 }
 
 *, *::before, *::after {
@@ -48,7 +49,7 @@ p {
   color: #fff;
   text-decoration: none;
   position: absolute;
-  padding: .5em;
+  padding: .6em;
   text-align: center;
   bottom: 15%;
   left: 40%;
@@ -61,10 +62,10 @@ p {
 .btn-big {
   display: inline-block;
   position: absolute;
-  top: 5%;
-  left: 5%;
+  top: 6%;
+  left: 2%;
   width: 100%;
-  max-width: 12em;
+  max-width: 13em;
 }
 
 .banner {
