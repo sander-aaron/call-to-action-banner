@@ -36,7 +36,7 @@ p {
   max-width: 55%;
 }
 
-.btn-big {
+.btn {
   font-family: Roboto, sans-serif;
   font-size: 1.5rem;
   border-radius: 6px;
@@ -50,7 +50,11 @@ p {
   left: 14em;
 }
 
-.btn {
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-big {
   display: inline-block;
   position: absolute;
   top: 4em;
