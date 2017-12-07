@@ -21,9 +21,10 @@ h2 {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 3rem;
   position: absolute;
-  top: 5%;
+  top: 8%;
   left: 43%;
   max-width: 45em;
+  margin-top: 0;
 }
 
 p {
@@ -31,7 +32,7 @@ p {
   font-family: Roboto, sans-serif;
   font-size: 1.5rem;
   position: absolute;
-  top: 40%;
+  top: 35%;
   left: 43%;
   max-width: 45em;
 }
